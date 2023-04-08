@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.blurb {
+    background-color: rgb(255,192,203);
+    border: 5px solid rgb(0, 204, 0);
+    text-align: center;
+    color: black;
+}
